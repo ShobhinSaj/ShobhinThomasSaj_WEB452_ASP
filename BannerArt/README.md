@@ -4,7 +4,7 @@
 
 **Description & General Notes**
 
-An MVC Web app built using C# and HTML in visual studio.
+An MVC Web app built using C# and ASP.NET Core 3.1 in visual studio.
 *********************************************************************************************************************************************************
 2023-010-12  @19:15PM:  Already had an existing account in Github. All I have to do is create a new repo for ASP.NET Assignments
 			
