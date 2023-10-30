@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Views",
+    "\\Views\\Shared",
+    "\\wwwroot",
+    "\\wwwroot\\lib",
+    "\\wwwroot\\lib\\bootstrap",
+    "\\wwwroot\\lib\\bootstrap\\dist",
+    "\\wwwroot\\lib\\bootstrap\\dist\\css"
+  ],
+  "SelectedNode": "\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}
