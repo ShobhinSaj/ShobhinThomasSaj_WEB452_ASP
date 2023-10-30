@@ -1,0 +1,15 @@
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinsBooks.DataAccess\bin\Debug\netcoreapp3.1\ShobhinsBooks.DataAccess.deps.json
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinsBooks.DataAccess\bin\Debug\netcoreapp3.1\ShobhinsBooks.DataAccess.dll
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinsBooks.DataAccess\bin\Debug\netcoreapp3.1\ShobhinsBooks.DataAccess.pdb
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinsBooks.DataAccess\obj\Debug\netcoreapp3.1\ShobhinsBooks.DataAccess.csproj.AssemblyReference.cache
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinsBooks.DataAccess\obj\Debug\netcoreapp3.1\ShobhinsBooks.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinsBooks.DataAccess\obj\Debug\netcoreapp3.1\ShobhinsBooks.DataAccess.AssemblyInfoInputs.cache
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinsBooks.DataAccess\obj\Debug\netcoreapp3.1\ShobhinsBooks.DataAccess.AssemblyInfo.cs
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinsBooks.DataAccess\obj\Debug\netcoreapp3.1\ShobhinsBooks.DataAccess.csproj.CoreCompileInputs.cache
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinsBooks.DataAccess\obj\Debug\netcoreapp3.1\ShobhinsBooks.DataAccess.dll
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinsBooks.DataAccess\obj\Debug\netcoreapp3.1\ShobhinsBooks.DataAccess.pdb
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinsBooks.DataAccess\bin\Debug\netcoreapp3.1\ShobhinBooks.Utility.dll
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinsBooks.DataAccess\bin\Debug\netcoreapp3.1\ShobhinsBooks.Models.dll
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinsBooks.DataAccess\bin\Debug\netcoreapp3.1\ShobhinBooks.Utility.pdb
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinsBooks.DataAccess\bin\Debug\netcoreapp3.1\ShobhinsBooks.Models.pdb
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinsBooks.DataAccess\obj\Debug\netcoreapp3.1\ShobhinsBooks.DataAccess.csproj.CopyComplete

@@ -1,0 +1,10 @@
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinBooks.Utility\bin\Debug\netcoreapp3.1\ShobhinBooks.Utility.deps.json
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinBooks.Utility\bin\Debug\netcoreapp3.1\ShobhinBooks.Utility.dll
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinBooks.Utility\bin\Debug\netcoreapp3.1\ShobhinBooks.Utility.pdb
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinBooks.Utility\obj\Debug\netcoreapp3.1\ShobhinBooks.Utility.csproj.AssemblyReference.cache
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinBooks.Utility\obj\Debug\netcoreapp3.1\ShobhinBooks.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinBooks.Utility\obj\Debug\netcoreapp3.1\ShobhinBooks.Utility.AssemblyInfoInputs.cache
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinBooks.Utility\obj\Debug\netcoreapp3.1\ShobhinBooks.Utility.AssemblyInfo.cs
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinBooks.Utility\obj\Debug\netcoreapp3.1\ShobhinBooks.Utility.csproj.CoreCompileInputs.cache
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinBooks.Utility\obj\Debug\netcoreapp3.1\ShobhinBooks.Utility.dll
+E:\ASP\repos\ShobhinThomasSaj_WEB452_ASP\ShobhinBooks.Utility\obj\Debug\netcoreapp3.1\ShobhinBooks.Utility.pdb
